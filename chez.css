@@ -3,7 +3,7 @@ margin: 0px;
  }
 #bannerimage {    
   width: 100%;
-  background-image: url(SHITPOST/TOPBG.png);
+  background-image: url(/SHITPOST/TOPBG.png);
   height: 405px;
   background-position: center;
 }
