@@ -3,13 +3,13 @@ margin: 0px;
  }
 #bannerimage {    
   width: 100%;
-  background-image: url(TOPBG.png);
+  background-image: url(https://chez-studios.space/SHITPOST/TOPBG.png);
   height: 405px;
   background-position: center;
 }
 .bgholder {
   width: 1200px;
- background-image: url(greenbg.png);
+ background-image: url(https://chez-studios.space/SHITPOST/greenbg.png);
  padding: 20px;
  border: 10px solid;
  border-radius: 20px;
