@@ -1,0 +1,142 @@
+ body{
+margin: 0px;
+ }
+#bannerimage {    
+  width: 100%;
+  background-image: url(TOPBG.png);
+  height: 405px;
+  background-position: center;
+}
+.bgholder {
+  width: 1200px;
+ background-image: url(greenbg.png);
+ padding: 20px;
+ border: 10px solid;
+ border-radius: 20px;
+}
+
+#textbox1 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 720px;
+    height: 240px;
+    background-color: rgba(156, 245, 218, 0.76);
+}
+
+#boxstyle1 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 480px;
+    height: 270px;
+    background-color: rgba(156, 245, 218, 0.76);
+    
+}
+
+#boxstyle2 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 480px;
+    height: 270px;
+    background-color: rgba(156, 245, 218, 0.76); 
+}
+
+#boxstyle3 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 490px;
+    height: 574px;
+    background-color: rgba(156, 245, 218, 0.76);
+ }   
+#boxstyle4 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 993px;
+    height: 500px;
+    background-color: rgba(156, 245, 218, 0.76);
+    
+}
+
+#boxstyle5 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 480px;
+    height: 270px;
+    background-color: rgba(156, 245, 218, 0.76);
+    
+}
+
+#boxstyle6 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 480px;
+    height: 270px;
+    background-color: rgba(156, 245, 218, 0.76); 
+}
+
+#boxstyle7 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 490px;
+    height: 574px;
+    background-color: rgba(156, 245, 218, 0.76);
+ }
+ #boxstyle8 {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 993px;
+    height: 200px;
+    background-color: rgba(156, 245, 218, 0.76);
+    
+}   
+
+ .container1{
+ display: flex;
+  gap: 10px;
+justify-content: center;
+
+ }
