@@ -3,16 +3,28 @@ margin: 0px;
  }
 #bannerimage {    
   width: 100%;
-  background-image: url(https://chez-studios.space/SHITPOST/TOPBG.png);
+  background-image: url(TOPBG.png);
   height: 405px;
   background-position: center;
 }
 .bgholder {
   width: 1200px;
- background-image: url(https://chez-studios.space/SHITPOST/greenbg.png);
+ background-image: url(greenbg.png);
  padding: 20px;
  border: 10px solid;
  border-radius: 20px;
+}
+#blinkies {
+    border: 2px solid rgb(96, 233, 243) ;
+    color: rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 6px;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+
+    width: 720px;
+    height: 275px;
+    background-color: rgba(156, 245, 218, 0.76);
 }
 
 #textbox1 {
@@ -24,7 +36,7 @@ margin: 0px;
     font-optical-sizing: auto;
 
     width: 720px;
-    height: 240px;
+    height: 275px;
     background-color: rgba(156, 245, 218, 0.76);
 }
 
@@ -140,3 +152,7 @@ margin: 0px;
 justify-content: center;
 
  }
+  
+
+
+
